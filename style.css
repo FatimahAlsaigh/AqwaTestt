@@ -1,0 +1,53 @@
+
+  header {
+    text-align: center;
+    margin: 3rem 0px;
+  }
+
+  body,html{
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding:5px 5px;
+  }
+  
+  h1{
+    color: white;
+    font-size: 4em;
+    font-weight: light;
+  }
+
+  img {
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    border-radius: 1em;
+  }
+  a{
+    text-decoration: none;
+    color: white;  
+  }
+  button{
+    font-size: 1.5em;
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: rgb(104, 137, 168);
+    margin: 0.5em;
+  }
+  
+  button:hover{
+    background-color: rgba(159, 196, 203, 0.632);
+  }
+
+  #submint{
+    padding: 10px 25px;
+    align-items: left;
+    border-radius: 5px;
+
+}
+
+#hungry{
+
+    width: 15em;
+    height: 20em;
+}
